@@ -15,7 +15,8 @@ body {
     background-color: #ffffff;
     color: #ffffff;
     margin: 30px auto 0px;
-    padding: 10px;
+    padding: 20px;
+    margin-top: 500px;
   }
   
   #controls,
@@ -43,8 +44,6 @@ body {
     background-color: #feac32;
     background-image: linear-gradient(#fecc4c, #ffac33);
     border: 3px solid #feac32;
-    align-items: center;
-    justify-content: center;
   }
 
   .DS {
